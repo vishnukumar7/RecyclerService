@@ -1,0 +1,25 @@
+<resources>
+    <string name="latest">Coming Soon</string>
+    <string name="app_name">WebService</string>
+    <string name="name">Name : </string>
+    <string name="id">Employee ID : </string>
+    <string name="age">AGE :</string>
+    <string name="salary">SALARY : </string>
+    <string name="uploadId">UPLOAD_ID : </string>
+    <string name="type">CONTENT_TYPE : </string>
+    <string name="path">DOWNLOAD_PATH : </string>
+    <string name="size">SIZE : </string>
+    <string name="checksum">CHECKSUM : </string>
+    <string name="display_name">DISPLAY_NAME : </string>
+    <string name="characterName">CHARACTER NAME : </string>
+    <string name="realName">REAL NAME : </string>
+    <string name="team">TEAM : </string>
+    <string name="firstAppearance">FIRST APPEARANCE : </string>
+    <string name="createdBy">CREATED BY : </string>
+    <string name="publisher">PUBLISHER : </string>
+    <string name="imageurl">IMAGE : </string>
+    <string name="bio">DESCRIPTION : </string>
+    <string name="demonuts_id">ID : </string>
+    <string name="city">City :</string>
+    <string name="country">Country :</string>
+</resources>
